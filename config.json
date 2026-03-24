@@ -1,0 +1,11 @@
+{
+  "token": "DISCORD TOKEN",
+  "prefix": "!",
+  "owner_id": "1438055011983687801",
+  "embed_color": "#5865F2",
+  "cache_ttl_days": 7,
+  "max_batch_size": 5,
+  "rate_limit_per_minute": 30,
+  "enable_logging": true,
+  "log_file": "bot_logs.txt"
+}
